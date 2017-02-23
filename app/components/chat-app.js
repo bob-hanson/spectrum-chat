@@ -1,0 +1,1 @@
+export { default } from 'spectrum-chat/components/chat-app';
